@@ -1,1 +1,1 @@
-TRUNCATE Students;
+TRUNCATE TABLE Students;
